@@ -6,7 +6,7 @@ A finance app to control your spending
 
 ### Technologies
 - TypeScript
-- Reactjs / Next.js
+- Reactjs
 - Styled Components / SCSS
 - Axios
 - Miragejs
