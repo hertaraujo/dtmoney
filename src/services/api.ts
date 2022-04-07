@@ -1,6 +1,10 @@
 import axios from "axios";
 
+let URL = "http://localhost:3000/api";
+if (process.env.NODE_ENV === "production")
+  URL = "http://dtm-finance.netlify.app/api";
+
 export const api = axios.create({
-  baseURL: "http://localhost:3000/api",
+  baseURL: URL,
   // headers: {}
 });

@@ -42,7 +42,6 @@ body {
   -webkit-font-smoothing: antialiased;
   color: #353535;
   line-height: 1;
-  /* font-size: 1.6rem; */
 }
 
 body, input, textarea, button {
