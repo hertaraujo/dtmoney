@@ -11,7 +11,7 @@ A finance app to control your spending
 - Axios
 - Miragejs
 
-### Run it locally:
+### Run it locally
 
     $ yarn
     $ yarn start
