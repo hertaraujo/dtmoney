@@ -2,7 +2,7 @@
 A finance app to control your spending
 
 ### Try it here
-[**dtmoney**](https://natours-hert.netlify.app/)
+[**dtmoney**](https://dtm-finance.netlify.app/)
 
 ### Technologies
 - TypeScript
